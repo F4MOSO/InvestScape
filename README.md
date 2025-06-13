@@ -26,8 +26,8 @@ Com apenas algumas informações básicas, você poderá:
 1. **Baixe ou abra a planilha** `Projeto_InvestScape_DIO_FDB.xlsx`.
 2. Vá até a aba **Ajustes**.
 3. Preencha os seguintes campos:
-   - 💰 **Salário, depois Insira no campo abaixo a % de rendimento de sua carteira **
-   - 📅 **Quanto Investir Por Mês, insira o valor desejado e no campo abaixo a quantidade de anos investidos**
+   - 💰 **Salário: depois insira no campo abaixo a % de rendimento de sua carteira**
+   - 📅 **Quanto Investir Por Mês: insira o valor desejado e no campo abaixo a quantidade de anos investidos**
 4. (Opcional) Perfil de Investidor:
    - Filtre seu perfil de investidor
    - Valor distruibido de acordo com o seu perfil
