@@ -69,3 +69,5 @@ Sugestões de melhorias, feedbacks e colaborações são sempre bem-vindos!
 
 **InvestScape: seu futuro começa com planejamento.**  
 📈 Comece hoje a construir o amanhã que você merece!
+
+Criado por Felipe Domingues Barbosa
